@@ -1,2 +1,2 @@
-# Physiscs-engine
-Today we created objects and gave them real life property i.e gravity
+# staticSquare
+A static square made using Matter.js physics engine
